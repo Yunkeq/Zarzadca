@@ -1,1 +1,4 @@
 # Zarzadca
+
+spowoduje conflict
+
