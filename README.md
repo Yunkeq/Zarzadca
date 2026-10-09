@@ -1,4 +1,4 @@
 # Zarzadca
 
-spowoduje conflict
+edytuje lokalnie
 
